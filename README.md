@@ -1,3 +1,17 @@
+
+```bash
+git clone --recursive https://github.com/Zi-ang-Cao/YOLO-World.git
+
+```
+#### Install
+
+```bash
+pip install torch wheel -q
+pip install -e .
+```
+
+
+
 <div align="center">
 <img src="./assets/yolo_logo.png" width=60%>
 <br>
